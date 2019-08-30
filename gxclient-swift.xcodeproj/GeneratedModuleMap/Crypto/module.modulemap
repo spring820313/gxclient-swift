@@ -1,0 +1,4 @@
+module Crypto {
+    umbrella header "/Users/xgc/Documents/gxclient-swift/Sources/Crypto/include/Crypto.h"
+    export *
+}

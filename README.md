@@ -1,2 +1,3 @@
 # gxclient-swift
-A client to interact with gxchain implemented in swift.
+
+A description of this package.

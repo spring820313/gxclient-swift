@@ -1,0 +1,61 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire.git",
+        "state": {
+          "branch": null,
+          "revision": "75bba56748359f297a83f620d45f72cf4ebee4e7",
+          "version": "4.8.2"
+        }
+      },
+      {
+        "package": "AnyCodable",
+        "repositoryURL": "https://github.com/Flight-School/AnyCodable.git",
+        "state": {
+          "branch": null,
+          "revision": "396ccc3dba5bdee04c1e742e7fab40582861401e",
+          "version": null
+        }
+      },
+      {
+        "package": "AwaitKit",
+        "repositoryURL": "https://github.com/yannickl/AwaitKit.git",
+        "state": {
+          "branch": null,
+          "revision": "743fbf22caa2813436e634fd7bf1fb0ff13751b9",
+          "version": "5.2.0"
+        }
+      },
+      {
+        "package": "CryptoSwift",
+        "repositoryURL": "https://github.com/krzyzanowskim/CryptoSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "5da70ba744d58d772201f03600eb16c53197652d",
+          "version": "0.15.0"
+        }
+      },
+      {
+        "package": "OrderedDictionary",
+        "repositoryURL": "https://github.com/jnordberg/OrderedDictionary.git",
+        "state": {
+          "branch": "swiftpm",
+          "revision": "e59b03776804b99a5e17469f98752673e46d781e",
+          "version": null
+        }
+      },
+      {
+        "package": "PromiseKit",
+        "repositoryURL": "https://github.com/mxcl/PromiseKit.git",
+        "state": {
+          "branch": null,
+          "revision": "2fdb8c64a85e2081388532dbc61eb348a0793b1c",
+          "version": "6.10.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

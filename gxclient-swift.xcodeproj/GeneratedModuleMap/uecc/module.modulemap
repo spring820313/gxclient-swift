@@ -1,0 +1,4 @@
+module uecc {
+    umbrella header "/Users/xgc/Documents/gxclient-swift/Sources/uecc/include/uecc.h"
+    export *
+}
